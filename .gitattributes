@@ -10,3 +10,5 @@
 *.ttf   binary
 *.woff  binary
 *.woff2 binary
+*.html linguist-vendored
+*.css linguist-vendored
